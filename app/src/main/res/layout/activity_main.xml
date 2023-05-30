@@ -27,4 +27,10 @@
         android:text="Check Location"
         android:id="@+id/btnupdate"/>
 
+    <Button
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Check Developer option"
+        android:id="@+id/btnDeveloper"/>
 </LinearLayout>
